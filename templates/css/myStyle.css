@@ -1,0 +1,15 @@
+.form-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.form-wrapper > form {
+  width: 400px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.error {
+  font-size: 13.5px;
+  color: red;
+  font-style: italic;
+}
